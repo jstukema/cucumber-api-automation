@@ -2,6 +2,8 @@ import MockServer.WireMockSetup;
 import org.junit.Before;
 import org.junit.After;
 import org.junit.Test;
+import org.junit.Assert;
+
 
 
 public class ApiTest {
@@ -22,4 +24,5 @@ public class ApiTest {
     public void testApi() {
         // Your test code here
     }
+
 }
